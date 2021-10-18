@@ -6,7 +6,7 @@
 <br>
 > menjalankan via docker
 <br>
-> docker build -t 
+> docker build -t golang-product
 
 <br>
 > menjalankan via go
